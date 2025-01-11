@@ -7,9 +7,14 @@ marketing, and budgeting.
 resource allocation.
 
 * Tasks:
- ▪ Gather historical sales data.
+  
+▪ Gather historical sales data.
+
 ▪ Preprocess data (handling missing values, encoding categorical
 variables).
+
 ▪ Given datasets 
+
 ▪ Train regression models (e.g., linear regression, random forest).
+
 ▪ Evaluate model performance and make predictions.
