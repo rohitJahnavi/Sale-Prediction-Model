@@ -7,8 +7,8 @@ marketing, and budgeting.
 resource allocation.
 
 * Tasks:
-
-▪ Gather historical sales data.
+*
+* ▪ Gather historical sales data.
 ▪ Preprocess data (handling missing values, encoding categorical
 variables).
 ▪ Given datasets 
