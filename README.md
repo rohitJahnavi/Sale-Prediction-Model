@@ -24,10 +24,14 @@ variables).
 Explanation:
 1. Import Libraries:
 
-pandas and numpy are used for data manipulation and numerical operations.
-train_test_split from sklearn.model_selection splits the dataset into training and testing sets.
-LinearRegression and RandomForestRegressor are the machine learning models used for prediction.
-mean_absolute_error, mean_squared_error, and r2_score are evaluation metrics to assess the models' accuracy.
-matplotlib and seaborn are for visualizations.
+* pandas and numpy are used for data manipulation and numerical operations.
+
+* train_test_split from sklearn.model_selection splits the dataset into training and testing sets.
+
+* LinearRegression and RandomForestRegressor are the machine learning models used for prediction.
+
+* mean_absolute_error, mean_squared_error, and r2_score are evaluation metrics to assess the models' accuracy.
+
+* matplotlib and seaborn are for visualizations.
 
 
