@@ -1,12 +1,12 @@
 # Sale-Prediction-Model
 1. Sales Prediction Model:
-o Description: Develop a regression model to predict future sales based
+* Description: Develop a regression model to predict future sales based
 on historical data. This helps in forecasting and planning for inventory,
 marketing, and budgeting.
-o Why: Accurate sales predictions enable better decision-making and
+* Why: Accurate sales predictions enable better decision-making and
 resource allocation.
 
-o Tasks:
+* Tasks:
 
 ▪ Gather historical sales data.
 
